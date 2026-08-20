@@ -1,2 +1,3 @@
-# collegeeee
-this is my first repository 
+# college
+This is my first git repository
+Author- chandani patel
